@@ -36,31 +36,30 @@
 ###
 
 
-<table>
-  <tr>
-    <td width="50%">
-    <h3 data-importer="text" align="left">💡 Key Analysis</h3>
+<table width="100%" align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
+    <h3 data-importer="text" align="center">💡 Key Analysis</h3>
 
-###
 
-<h5 data-importer="text" align="left">The project includes analysis of:<br><br>Employee distribution by department<br>Employee distribution by nationality<br>Gender distribution<br>Educational qualifications<br>Employee age groups<br>Salary analysis<br>Hiring dates and workforce trends<br>Saudi employee percentage<br>Other workforce indicators</h5>
 
-###
+<h4 data-importer="text" align="left">The project includes analysis of:<br><br>Employee distribution by department<br>Employee distribution by nationality<br>Gender distribution<br>Educational qualifications<br>Employee age groups<br>Salary analysis<br>Hiring dates and workforce trends<br>Saudi employee percentage<br>Other workforce indicators</h4>
+
+
 </td>
 
-<td width="50%">
+<td width="50%"  style="border: none:">
 
-<h3 data-importer="text" align="left">🎯 Data Analysis Process</h3>
+<h3 data-importer="text" align="center">🎯 Data Analysis Process</h3>
 
-###
 
-<br clear="both">
 
-<h5 data-importer="text" align="left">The project followed several steps:<br><br>Data preparation and organization<br>Data cleaning and validation<br>Building PivotTables<br>Creating PivotCharts<br>Adding interactive Slicers<br>Calculating key indicators<br>Designing the final dashboard<br>Presenting the results visually</h5>
 
-###
+
+<h4 data-importer="text" align="left">The project followed several steps:<br><br>Data preparation and organization<br>Data cleaning and validation<br>Building PivotTables<br>Creating PivotCharts<br>Adding interactive Slicers<br>Calculating key indicators<br>Designing the final dashboard<br>Presenting the results visually</h4>
+
 </td>
-  </td>>
+  </td>
 </table>
 
 <div data-importer="socials" align="left">
