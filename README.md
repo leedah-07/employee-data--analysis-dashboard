@@ -35,15 +35,20 @@
 
 ###
 
-<br clear="both">
 
-<h3 data-importer="text" align="left">💡 Key Analysis</h3>
+<table>
+  <tr>
+    <td width="50%">
+    <h3 data-importer="text" align="left">💡 Key Analysis</h3>
 
 ###
 
 <h5 data-importer="text" align="left">The project includes analysis of:<br><br>Employee distribution by department<br>Employee distribution by nationality<br>Gender distribution<br>Educational qualifications<br>Employee age groups<br>Salary analysis<br>Hiring dates and workforce trends<br>Saudi employee percentage<br>Other workforce indicators</h5>
 
 ###
+</td>
+
+<td width="50%">
 
 <h3 data-importer="text" align="left">🎯 Data Analysis Process</h3>
 
@@ -54,6 +59,9 @@
 <h5 data-importer="text" align="left">The project followed several steps:<br><br>Data preparation and organization<br>Data cleaning and validation<br>Building PivotTables<br>Creating PivotCharts<br>Adding interactive Slicers<br>Calculating key indicators<br>Designing the final dashboard<br>Presenting the results visually</h5>
 
 ###
+</td>
+  </td>>
+</table>
 
 <div data-importer="socials" align="left">
 </div>
